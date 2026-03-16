@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Topic Feeds — app-grimoire</title>
+<link>https://peter-weyland007.github.io/topic-feeds/feeds/app-grimoire.xml</link>
+<description>Channel/topic feed scaffold for Discord channel #app-grimoire.</description>
+<language>en-us</language>
+<lastBuildDate>Mon, 16 Mar 2026 13:40:09 +0000</lastBuildDate>
+<generator>topic-feeds/scripts/build_feeds.py</generator>
+<item>
+<title>Feed scaffold created</title>
+<link>https://peter-weyland007.github.io/topic-feeds/</link>
+<guid>https://peter-weyland007.github.io/topic-feeds/items/scaffold-created</guid>
+<pubDate>Mon, 16 Mar 2026 13:40:09 +0000</pubDate>
+<description>GitHub Pages + RSS scaffold is live. Discord ingestion still needs to be wired.</description>
+</item>
+</channel>
+</rss>

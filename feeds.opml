@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Topic Feeds</title>
+    <dateCreated>2026-03-16T13:40:09.885404+00:00</dateCreated>
+  </head>
+  <body>
+    <outline text="Topic Feeds">
+      <outline type="rss" text="All" title="All" xmlUrl="https://peter-weyland007.github.io/topic-feeds/feeds/all.xml" htmlUrl="https://peter-weyland007.github.io/topic-feeds/" />
+      <outline type="rss" text="app-grimoire" title="app-grimoire" xmlUrl="https://peter-weyland007.github.io/topic-feeds/feeds/app-grimoire.xml" htmlUrl="https://peter-weyland007.github.io/topic-feeds/" />
+    </outline>
+  </body>
+</opml>
