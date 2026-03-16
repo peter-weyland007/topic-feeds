@@ -2,12 +2,14 @@
 <opml version="2.0">
   <head>
     <title>Topic Feeds</title>
-    <dateCreated>2026-03-16T13:40:09.885404+00:00</dateCreated>
+    <dateCreated>2026-03-16T17:56:07.547430+00:00</dateCreated>
   </head>
   <body>
     <outline text="Topic Feeds">
       <outline type="rss" text="All" title="All" xmlUrl="https://peter-weyland007.github.io/topic-feeds/feeds/all.xml" htmlUrl="https://peter-weyland007.github.io/topic-feeds/" />
-      <outline type="rss" text="app-grimoire" title="app-grimoire" xmlUrl="https://peter-weyland007.github.io/topic-feeds/feeds/app-grimoire.xml" htmlUrl="https://peter-weyland007.github.io/topic-feeds/" />
+      <outline type="rss" text="openclaw" title="openclaw" xmlUrl="https://peter-weyland007.github.io/topic-feeds/feeds/openclaw.xml" htmlUrl="https://peter-weyland007.github.io/topic-feeds/" />
+      <outline type="rss" text="stargate sg1 tv show" title="stargate sg1 tv show" xmlUrl="https://peter-weyland007.github.io/topic-feeds/feeds/stargate-sg1-tv-show.xml" htmlUrl="https://peter-weyland007.github.io/topic-feeds/" />
+      <outline type="rss" text="firefly tv show" title="firefly tv show" xmlUrl="https://peter-weyland007.github.io/topic-feeds/feeds/firefly-tv-show.xml" htmlUrl="https://peter-weyland007.github.io/topic-feeds/" />
     </outline>
   </body>
 </opml>
